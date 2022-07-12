@@ -1,0 +1,61 @@
+[
+  {
+    "id": 1,
+    "kwota": 0.0,
+    "karta": true,
+    "godzina": 20,
+    "kwiaty": [
+      {
+        "rodzaj": "tulipan",
+        "ilosc": 15
+      },
+      {
+        "rodzaj": "roza",
+        "ilosc": 17
+      },
+      {
+        "rodzaj": "stokrotka",
+        "ilosc": 5
+      }
+    ],
+    "przydzielono": false
+  },
+  {
+    "id": 2,
+    "kwota": 0.0,
+    "karta": false,
+    "godzina": 13,
+    "kwiaty": [
+      {
+        "rodzaj": "tulipan",
+        "ilosc": 8
+      },
+      {
+        "rodzaj": "lilia",
+        "ilosc": 7
+      },
+      {
+        "rodzaj": "stokrotka",
+        "ilosc": 14
+      }
+    ],
+    "przydzielono": false
+  },
+  {
+    "id": 3,
+    "kwota": 0.0,
+    "karta": true,
+    "godzina": 11,
+    "kwiaty": [
+      {
+        "rodzaj": "tulipan",
+        "ilosc": 44
+      },
+      {
+        "rodzaj": "stokrotka",
+        "ilosc": 30
+      }
+    ],
+    "przydzielono": false
+  }
+]

@@ -1,0 +1,68 @@
+[{
+        "id": 1,
+        "iloscZamowien": 0,
+        "magazyn": [{
+                "ilosc": "100",
+                "rodzaj": "tulipan"
+            },
+            {
+                "ilosc": "300",
+                "rodzaj": "roza"
+            },
+            {
+                "ilosc": "400",
+                "rodzaj": "stokrotka"
+            }
+        ],
+        "godzinyOtwarcia": [{
+            "otwarcie": 10,
+            "zamkniecie": 20
+        }],
+        "dostepneGodziny": [
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+        ]
+    },
+    {
+        "id": 2,
+        "iloscZamowien": 1,
+        "magazyn": [{
+                "ilosc": "306",
+                "rodzaj": "tulipan"
+            },
+            {
+                "ilosc": "50",
+                "rodzaj": "roza"
+            },
+            {
+                "ilosc": "156",
+                "rodzaj": "stokrotka"
+            }
+        ],
+        "godzinyOtwarcia": [{
+            "otwarcie": 11,
+            "zamkniecie": 21
+        }],
+        "dostepneGodziny": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+        ]
+    }
+]

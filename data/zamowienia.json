@@ -1,0 +1,48 @@
+[{
+    "id": 1,
+    "kwiaty": [{
+            "rodzaj": "tulipan",
+            "ilosc": 15
+        },
+        {
+            "rodzaj": "roza",
+            "ilosc": 17
+        },
+        {
+            "rodzaj": "stokrotka",
+            "ilosc": 5
+        }
+    ],
+    "godzina": 20,
+    "karta": true
+}, {
+    "id": 2,
+    "kwiaty": [{
+            "rodzaj": "tulipan",
+            "ilosc": 8
+        },
+        {
+            "rodzaj": "lilia",
+            "ilosc": 7
+        },
+        {
+            "rodzaj": "stokrotka",
+            "ilosc": 14
+        }
+    ],
+    "godzina": 13,
+    "karta": false
+}, {
+    "id": 3,
+    "kwiaty": [{
+            "rodzaj": "tulipan",
+            "ilosc": 44
+        },
+        {
+            "rodzaj": "stokrotka",
+            "ilosc": 30
+        }
+    ],
+    "godzina": 11,
+    "karta": true
+}]
